@@ -1,6 +1,6 @@
 # Sailplane Design with Semi-Monocoque Wing
 
-This repository contains the engineering calculations, models, and documentation for the design of a sailplane featuring a semi-monocoque midwing[cite: 1]. The primary goal of this computational design project is to optimize the aircraft's aerodynamic and structural characteristics to maximize its overall range.
+This repository contains the engineering calculations, models, and documentation for the design of a sailplane featuring a semi-monocoque midwing. The primary goal of this computational design project is to optimize the aircraft's aerodynamic and structural characteristics to maximize its overall range.
 
 ## Key Specifications
 
