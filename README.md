@@ -6,7 +6,7 @@ This repository contains the engineering calculations, models, and documentation
 
 The design adheres to the following strict engineering constraints:
 
-*   **Wingspan:** 12m to 18m[cite: 1].
+*   **Wingspan:** 12m to 18m.
 *   **Fuselage Length:** Restricted to 45%–55% of the chosen wingspan[cite: 1].
 *   **Weight Target:** Total aircraft weight between 250kg and 300kg[cite: 1].
 *   **Weight Distribution:** A maximum of 40% of the total weight is allocated for the wing structure[cite: 1].
